@@ -1,0 +1,22 @@
+C:\Users\Section1\source\repos\ASCIICopy\ASCIICopy\bin\Debug\ASCIICopy.exe.config
+C:\Users\Section1\source\repos\ASCIICopy\ASCIICopy\bin\Debug\ASCIICopy.exe
+C:\Users\Section1\source\repos\ASCIICopy\ASCIICopy\bin\Debug\ASCIICopy.pdb
+C:\Users\Section1\source\repos\ASCIICopy\ASCIICopy\obj\Debug\ASCIICopy.csprojResolveAssemblyReference.cache
+C:\Users\Section1\source\repos\ASCIICopy\ASCIICopy\obj\Debug\ASCIICopy.Form1.resources
+C:\Users\Section1\source\repos\ASCIICopy\ASCIICopy\obj\Debug\ASCIICopy.Properties.Resources.resources
+C:\Users\Section1\source\repos\ASCIICopy\ASCIICopy\obj\Debug\ASCIICopy.csproj.GenerateResource.cache
+C:\Users\Section1\source\repos\ASCIICopy\ASCIICopy\obj\Debug\ASCIICopy.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\ASCIICopy\ASCIICopy\obj\Debug\ASCIICopy.exe
+C:\Users\Section1\source\repos\ASCIICopy\ASCIICopy\obj\Debug\ASCIICopy.pdb
+C:\Users\Section1\source\repos\ASCIICopy\ASCIICopy\bin\Debug\smiley_content.json
+C:\Users\MSI\Desktop\WebMobil2\Ders Uygulamaları\Form\7. hafta\ASCIICopy\ASCIICopy\bin\Debug\smiley_content.json
+C:\Users\MSI\Desktop\WebMobil2\Ders Uygulamaları\Form\7. hafta\ASCIICopy\ASCIICopy\bin\Debug\ASCIICopy.exe.config
+C:\Users\MSI\Desktop\WebMobil2\Ders Uygulamaları\Form\7. hafta\ASCIICopy\ASCIICopy\bin\Debug\ASCIICopy.exe
+C:\Users\MSI\Desktop\WebMobil2\Ders Uygulamaları\Form\7. hafta\ASCIICopy\ASCIICopy\bin\Debug\ASCIICopy.pdb
+C:\Users\MSI\Desktop\WebMobil2\Ders Uygulamaları\Form\7. hafta\ASCIICopy\ASCIICopy\obj\Debug\ASCIICopy.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\WebMobil2\Ders Uygulamaları\Form\7. hafta\ASCIICopy\ASCIICopy\obj\Debug\ASCIICopy.Form1.resources
+C:\Users\MSI\Desktop\WebMobil2\Ders Uygulamaları\Form\7. hafta\ASCIICopy\ASCIICopy\obj\Debug\ASCIICopy.Properties.Resources.resources
+C:\Users\MSI\Desktop\WebMobil2\Ders Uygulamaları\Form\7. hafta\ASCIICopy\ASCIICopy\obj\Debug\ASCIICopy.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\WebMobil2\Ders Uygulamaları\Form\7. hafta\ASCIICopy\ASCIICopy\obj\Debug\ASCIICopy.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\WebMobil2\Ders Uygulamaları\Form\7. hafta\ASCIICopy\ASCIICopy\obj\Debug\ASCIICopy.exe
+C:\Users\MSI\Desktop\WebMobil2\Ders Uygulamaları\Form\7. hafta\ASCIICopy\ASCIICopy\obj\Debug\ASCIICopy.pdb
